@@ -24,10 +24,10 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.thymeleaf.extras</groupId>
-  <artifactId>thymeleaf-extras-springsecurity6</artifactId>
+  <artifactId>thymeleaf-extras-springsecurity6-patched</artifactId>
   <packaging>jar</packaging>
-  <version>3.1.0-SNAPSHOT</version>
-  <name>thymeleaf-extras-springsecurity6</name>
+  <version>3.1.0.M1</version>
+  <name>thymeleaf-extras-springsecurity6-patched</name>
   <url>http://www.thymeleaf.org</url>
 
   <description>Modern server-side Java template engine for both web and standalone environments</description>
